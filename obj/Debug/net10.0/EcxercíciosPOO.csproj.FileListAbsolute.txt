@@ -12,3 +12,4 @@ C:\Users\23977290835\Desktop\DotNet\EcxercíciosPOO\obj\Debug\net10.0\refint\Ecx
 C:\Users\23977290835\Desktop\DotNet\EcxercíciosPOO\obj\Debug\net10.0\EcxercíciosPOO.pdb
 C:\Users\23977290835\Desktop\DotNet\EcxercíciosPOO\obj\Debug\net10.0\EcxercíciosPOO.genruntimeconfig.cache
 C:\Users\23977290835\Desktop\DotNet\EcxercíciosPOO\obj\Debug\net10.0\ref\EcxercíciosPOO.dll
+C:\Users\23977290835\Desktop\DotNet\EcxercíciosPOO\obj\Debug\net10.0\EcxercíciosPOO.sourcelink.json
